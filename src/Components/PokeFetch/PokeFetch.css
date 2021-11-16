@@ -10,9 +10,9 @@
   height: 100px;
   font-size: 1.7em;
   font-family: 'Press Start 2P', cursive;
-  color: white;
+  color: red;
   font-weight: bold;
-  background-color: red;
+  background-color: yellow;
   border-color: white;
   border-radius: 10px;
 }
